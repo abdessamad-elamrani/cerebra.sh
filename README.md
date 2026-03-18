@@ -10,10 +10,14 @@
 </p>
 
 <p align="center">
-  <a href="https://cerebra.sh">Website</a> &middot;
-  <a href="https://cerebra.sh/download">Download</a> &middot;
+  <a href="https://www.cerebra.sh"><strong>www.cerebra.sh</strong></a> &middot;
+  <a href="https://www.cerebra.sh/download">Download</a> &middot;
   <a href="https://github.com/abdessamad-elamrani/cerebra.sh/releases">Releases</a> &middot;
   <a href="https://github.com/abdessamad-elamrani/cerebra.sh/discussions">Discussions</a>
+</p>
+
+<p align="center">
+  <sub>Visit <a href="https://www.cerebra.sh"><strong>www.cerebra.sh</strong></a> for full demos, screenshots, and downloads.</sub>
 </p>
 
 ---
@@ -169,6 +173,9 @@ cff4a9e920bc0a9ee5e2ebc347f6415ea6995bcdcbca960f2b49e49bea2ede4d  Cerebra-2.0.0-
 
 Cerebra is proprietary software. See [LICENSE](LICENSE) for details.
 
+---
+
 <p align="center">
-  <a href="https://cerebra.sh">cerebra.sh</a>
+  <a href="https://www.cerebra.sh"><strong>www.cerebra.sh</strong></a><br/>
+  <sub>Full product overview, video demos, and downloads</sub>
 </p>
