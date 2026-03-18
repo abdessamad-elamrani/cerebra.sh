@@ -129,16 +129,18 @@ Decode JWTs, hash payloads, convert formats, and run utility transforms without 
 
 ## Download
 
-Current release: **v2.0.0**
+Current release: **v2.0.0** — available for macOS, Windows, and Linux.
 
-| Platform | Arch | Format | Size | SHA-256 |
-|----------|------|--------|------|---------|
-| [macOS](https://downloads.cerebra.sh/releases/2.0.0/Cerebra-2.0.0-arm64-mac.zip) | Apple Silicon | ZIP | 116 MB | `06078ae8...682afe4a` |
-| [Windows Installer](https://downloads.cerebra.sh/releases/2.0.0/Cerebra%20Setup%202.0.0.exe) | x64 | EXE | 92 MB | `b733c974...d1e11337` |
-| [Windows Portable](https://downloads.cerebra.sh/releases/2.0.0/Cerebra%202.0.0.exe) | x64 | EXE | 92 MB | `50961f7c...46230ce` |
-| [Linux AppImage](https://downloads.cerebra.sh/releases/2.0.0/Cerebra-2.0.0-x86_64.AppImage) | x64 | AppImage | 126 MB | `cff4a9e9...a2ede4d` |
+**[Download Cerebra from www.cerebra.sh/download](https://www.cerebra.sh/download)**
 
-> Downloads are also available at [cerebra.sh/download](https://cerebra.sh/download).
+| Platform | Arch | Format | Size |
+|----------|------|--------|------|
+| macOS | Apple Silicon | ZIP | 116 MB |
+| Windows Installer | x64 | EXE | 92 MB |
+| Windows Portable | x64 | EXE | 92 MB |
+| Linux AppImage | x64 | AppImage | 126 MB |
+
+> All builds, checksums, and verification details are on the [download page](https://www.cerebra.sh/download).
 
 ### Installation Notes
 
