@@ -12,8 +12,8 @@
 <p align="center">
   <a href="https://cerebra.sh">Website</a> &middot;
   <a href="https://cerebra.sh/download">Download</a> &middot;
-  <a href="https://github.com/user/cerebra/releases">Releases</a> &middot;
-  <a href="https://github.com/user/cerebra/discussions">Discussions</a>
+  <a href="https://github.com/abdessamad-elamrani/cerebra.sh/releases">Releases</a> &middot;
+  <a href="https://github.com/abdessamad-elamrani/cerebra.sh/discussions">Discussions</a>
 </p>
 
 ---
@@ -24,14 +24,19 @@
 
 ## What is Cerebra?
 
-Cerebra is a desktop application that keeps execution, evidence, enrichment, and offline analysis in one workspace so your workflow doesn't break when tasks change. It connects to hosts over **SSH**, **RDP**, **VNC**, and **local shell** — all in a single multi-pane interface with persistent tabs, split panes, and reusable templates.
+Cerebra is a desktop application that unifies everything a cybersecurity professional touches — live terminal sessions, intelligence lookups, reverse engineering, cryptography and cracking utilities, attack-flow graphs, AI-assisted automation, runbooks, and operator notes — into a single multi-pane workspace. It connects to hosts over **SSH**, **RDP**, **VNC**, and **local shell** with persistent tabs, split panes, and reusable layout templates, so your workflow doesn't break when tasks change.
+
+Instead of scattering work across dozens of browser tabs, CLI windows, and note-taking apps, Cerebra keeps execution, evidence, enrichment, and analysis side by side — where context is never more than one pane away.
 
 ### Core Pillars
 
-- **Hosts and live sessions in one shell** — SSH, RDP, VNC and browser side by side, split-screen like a tmux master
-- **Runbooks inject directly into active panes** — reusable command cards push into the live session, not disconnected notes
-- **AI turns live work into reusable knowledge** — the AI Toolkit reasons over your workspace, not a detached chatbot
-- **CyberViewer keeps flow graphs beside the work** — attack-flow graphs stay connected to runbooks and evidence
+- **Multi-protocol workspace** — SSH, RDP, VNC, and browser sessions live side by side in a split-screen interface with persistent tabs and reusable templates
+- **Runbooks that execute, not just document** — reusable command cards inject directly into the active shell or pane, turning playbooks into one-click actions
+- **AI with live context** — the AI Toolkit reasons over your running sessions, terminal output, and workspace state — not a detached chatbot with no visibility
+- **Attack-flow visualization** — CyberViewer renders kill chains, pivot paths, and operational graphs connected to runbooks and evidence
+- **Built-in intelligence & enrichment** — enrich domains, IPs, URLs, and hashes without leaving the workspace
+- **Reverse engineering in-flow** — map APIs to ATT&CK, triage binaries, deobfuscate content, and extract IoCs alongside the live session
+- **Cryptography & transforms** — decode JWTs, hash payloads, crack formats, and run quick transforms docked beside the shell
 
 ---
 
