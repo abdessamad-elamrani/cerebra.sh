@@ -131,16 +131,14 @@ Decode JWTs, hash payloads, convert formats, and run utility transforms without 
 
 Current release: **v2.0.0** — available for macOS, Windows, and Linux.
 
-**[Download Cerebra from www.cerebra.sh/download](https://www.cerebra.sh/download)**
+| Platform | Arch | Format | Size | Get |
+|----------|------|--------|------|-----|
+| macOS | Apple Silicon | ZIP | 116 MB | [Download](https://www.cerebra.sh/download) |
+| Windows Installer | x64 | EXE | 92 MB | [Download](https://www.cerebra.sh/download) |
+| Windows Portable | x64 | EXE | 92 MB | [Download](https://www.cerebra.sh/download) |
+| Linux AppImage | x64 | AppImage | 126 MB | [Download](https://www.cerebra.sh/download) |
 
-| Platform | Arch | Format | Size |
-|----------|------|--------|------|
-| macOS | Apple Silicon | ZIP | 116 MB |
-| Windows Installer | x64 | EXE | 92 MB |
-| Windows Portable | x64 | EXE | 92 MB |
-| Linux AppImage | x64 | AppImage | 126 MB |
-
-> All builds, checksums, and verification details are on the [download page](https://www.cerebra.sh/download).
+> All builds, checksums, and verification details at [**www.cerebra.sh/download**](https://www.cerebra.sh/download)
 
 ### Installation Notes
 
