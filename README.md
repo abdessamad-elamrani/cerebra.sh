@@ -26,22 +26,6 @@
   <img src="screenshots/home-hero-workspace.png" alt="Cerebra Workspace" width="900" />
 </p>
 
-## Watch Demo Video
-
-<p align="center">
-  <a href="https://downloads.cerebra.sh/media/hero-branding-video.mp4">
-    <img src="screenshots/home-hero-workspace.png" alt="Watch the Cerebra demo video" width="900" />
-  </a>
-</p>
-
-<p align="center">
-  <sub>
-    <a href="https://downloads.cerebra.sh/media/hero-branding-video.mp4"><strong>Watch the product demo video</strong></a>
-    &middot;
-    <a href="https://www.cerebra.sh">See the full website</a>
-  </sub>
-</p>
-
 ## What is Cerebra?
 
 Cerebra is a desktop application that unifies everything a cybersecurity professional touches — live terminal sessions, intelligence lookups, reverse engineering, cryptography and cracking utilities, attack-flow graphs, AI-assisted automation, runbooks, and operator notes — into a single multi-pane workspace. It connects to hosts over **SSH**, **RDP**, **VNC**, and **local shell** with persistent tabs, split panes, and reusable layout templates, so your workflow doesn't break when tasks change.
@@ -72,6 +56,26 @@ See how Cerebra compares across the workflows that matter for cybersecurity oper
 
 <p align="center">
   <sub>Click the comparison image to open the full-size table.</sub>
+</p>
+
+---
+
+## Watch Demo Video
+
+<p align="center">
+  <a href="https://downloads.cerebra.sh/media/hero-branding-video.mp4">
+    <img src="screenshots/home-demo-video-poster.png" alt="Watch the Cerebra demo video" width="900" />
+  </a>
+</p>
+
+<p align="center">
+  <sub>
+    Click the play poster to watch the product demo video
+    &middot;
+    <a href="https://downloads.cerebra.sh/media/hero-branding-video.mp4"><strong>Open the video directly</strong></a>
+    &middot;
+    <a href="https://www.cerebra.sh">See the full website</a>
+  </sub>
 </p>
 
 ---
